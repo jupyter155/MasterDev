@@ -1,2 +1,0 @@
-package com.example.springboot.repository;public interface UserRepository {
-}
