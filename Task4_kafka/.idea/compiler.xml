@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="task3" />
+        <module name="Task4_kafka" />
+        <module name="Producer-Thread-READ-CSV" />
+        <module name="3_Producer-Thread-READ-CSV" />
+        <module name="ProducerReadCSV" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Task3_2_Avro" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>

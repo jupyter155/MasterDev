@@ -31,7 +31,7 @@ public class Serialize {
         DataFileWriter<PeopleList> empFileWriter = new DataFileWriter<PeopleList>(empDatumWriter);
         Path currentRelativePath = Paths.get("");
         String s = currentRelativePath.toAbsolutePath().toString();
-        empFileWriter.create(peopleList.getSchema(), new File(s + "/src/main/java/src/main/java/emp.avro"));
+        empFileWriter.create(peopleList.getSchema(), new File(s + "/src/main/java/src/main/java/emp.json"));
         System.out.println(s);
 
         empFileWriter.append(peopleList);

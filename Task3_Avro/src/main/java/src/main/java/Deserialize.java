@@ -16,7 +16,7 @@ public class Deserialize {
         String s = currentRelativePath.toAbsolutePath().toString();
         //Instantiating DataFileReader
         DataFileReader<PeopleList> dataFileReader = new DataFileReader<PeopleList>(new
-                File(s+ "/src/main/java/src/main/java/emp.avro"), empDatumReader);
+                File(s+ "/src/main/java/src/main/java/emp.json"), empDatumReader);
         PeopleList emp=null;
 
         while(dataFileReader.hasNext()){
