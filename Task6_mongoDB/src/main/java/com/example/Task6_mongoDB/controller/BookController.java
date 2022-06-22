@@ -50,5 +50,8 @@ public class BookController {
         return repo.findBooksByDateBetween(startDate, endDate);
     }
 
-
+    @GetMapping("/findBooksByDate2")
+    public List<Book> findBooksByDateBetween2(@RequestParam(value ="startDate") Date startDate ,@RequestParam(value="endDate") Date endDate) {
+        return this.booksService.findBooksByDateBetween2(startDate,endDate);
+    }
 }

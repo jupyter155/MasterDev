@@ -4,8 +4,12 @@ import com.example.Task6_mongoDB.entity.Book;
 import com.example.Task6_mongoDB.reponsitory.BooksReponsitory;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.mongodb.core.MongoTemplate;
+import org.springframework.data.mongodb.core.query.Criteria;
+import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.stereotype.Service;
 
+import java.util.Date;
 import java.util.List;
 import java.util.Optional;
 @Service
@@ -13,6 +17,9 @@ import java.util.Optional;
 public class BooksServiceImpl implements BooksService{
     @Autowired
     private BooksReponsitory repo;
+
+    @Autowired
+    private MongoTemplate mongoTemplate;
 
     @Override
     public List<Book> getAll(){
@@ -40,6 +47,13 @@ public class BooksServiceImpl implements BooksService{
         update.setDescribe(BookDetails.getDescribe());
         repo.save(update);
         return "update successfully";
+    }
+    @Override
+    public List<Book> findBooksByDateBetween2(Date startDate, Date endDate){
+        Query query = new Query();
+        query.addCriteria(Criteria.where("date").lt(startDate).gt(endDate));
+        List<Book> books = mongoTemplate.find(query, Book.class);
+        return books;
     }
 
 }
