@@ -4,19 +4,27 @@ import com.example.Task6_mongoDB.entity.Book;
 import com.example.Task6_mongoDB.reponsitory.BooksReponsitory;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.mongodb.core.MongoOperations;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
+import org.springframework.data.mongodb.core.query.TextCriteria;
 import org.springframework.stereotype.Service;
 
 import java.util.Date;
 import java.util.List;
 import java.util.Optional;
+
+import static org.springframework.data.mongodb.core.query.Query.query;
+
 @Service
 @AllArgsConstructor
 public class BooksServiceImpl implements BooksService{
     @Autowired
     private BooksReponsitory repo;
+
+    @Autowired
+    private MongoOperations operations;
 
     @Autowired
     private MongoTemplate mongoTemplate;
@@ -48,12 +56,19 @@ public class BooksServiceImpl implements BooksService{
         repo.save(update);
         return "update successfully";
     }
+
     @Override
     public List<Book> findBooksByDateBetween2(Date startDate, Date endDate){
         Query query = new Query();
-        query.addCriteria(Criteria.where("date").lt(startDate).gt(endDate));
+        query.addCriteria(Criteria.where("date").lt(endDate).gt(startDate));
         List<Book> books = mongoTemplate.find(query, Book.class);
         return books;
     }
 
+    @Override
+    public List<Book> findFullTextSearch(String text){
+        TextCriteria criteria = TextCriteria.forDefaultLanguage().matchingAny(text);
+        List<Book> books = operations.find(query(criteria), Book.class);
+        return books;
+    }
 }

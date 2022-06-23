@@ -44,14 +44,23 @@ public class BookController {
         return repo.findBooksByAuthorContainsAndBookNameContains(author,bookName);
     }
 
-    @GetMapping("/findBooksByDate")
-    public List<Book> findBooksByDateBetween(@RequestParam(value = "startDate")   @DateTimeFormat(pattern="yyyy-MM-dd") Date startDate,
-                                             @RequestParam(value = "endDate")   @DateTimeFormat(pattern = "yyy-MM-dd") Date endDate){
-        return repo.findBooksByDateBetween(startDate, endDate);
-    }
+//    @GetMapping("/findBooksByDate")
+//    public List<Book> findBooksByDateBetween(@RequestParam(value = "startDate")   @DateTimeFormat(pattern="yyyy-MM-dd") Date startDate,
+//                                             @RequestParam(value = "endDate")   @DateTimeFormat(pattern = "yyy-MM-dd") Date endDate){
+//        return repo.findBooksByDateBetween(startDate, endDate);
+//    }
 
-    @GetMapping("/findBooksByDate2")
-    public List<Book> findBooksByDateBetween2(@RequestParam(value ="startDate") Date startDate ,@RequestParam(value="endDate") Date endDate) {
+    @GetMapping("/findBooksByDate")
+    public List<Book> findBooksByDateBetween2(@RequestParam(value ="startDate") @DateTimeFormat(pattern="yyyy-MM-dd") Date startDate ,
+                                              @RequestParam(value="endDate") @DateTimeFormat(pattern="yyyy-MM-dd") Date endDate) {
         return this.booksService.findBooksByDateBetween2(startDate,endDate);
+    }
+    @GetMapping("/findByIndex")
+    public List<Book> findFullText(@RequestParam(value="text") String text){
+        return repo.findByQuery(text);
+    }
+    @GetMapping("/findFullTextSearch")
+    public List<Book> findFullTextSearch(@RequestParam(value="text") String text){
+        return this.booksService.findFullTextSearch(text);
     }
 }

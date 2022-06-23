@@ -11,6 +11,6 @@ public interface BooksService
     String addBook(Book book);
     void deleteBook(String id);
     String updateBook(String id, Book book);
-
     List<Book> findBooksByDateBetween2(Date startDate, Date endDate);
+    List<Book> findFullTextSearch(String text);
 }
