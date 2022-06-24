@@ -1,4 +1,4 @@
-package com.example.Task6_mongoDB.service;
+package com.example.task6_mongodb.service;
 
 import com.example.Task6_mongoDB.entity.Book;
 import com.example.Task6_mongoDB.reponsitory.BooksReponsitory;

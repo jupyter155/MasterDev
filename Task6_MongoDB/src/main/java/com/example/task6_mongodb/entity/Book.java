@@ -1,4 +1,4 @@
-package com.example.Task6_mongoDB.entity;
+package com.example.task6_mongodb.entity;
 
 
 import com.fasterxml.jackson.annotation.JsonFormat;
@@ -18,7 +18,7 @@ import java.util.Date;
 @AllArgsConstructor
 //@Entity
 
-@Document(collection = "minhnx12")
+@Document(collection = "book")
 public class Book {
     @Id
     private String id;

@@ -1,4 +1,4 @@
-package com.example.Task6_mongoDB.controller;
+package com.example.task6_mongodb.controller;
 
 import com.example.Task6_mongoDB.entity.Book;
 import com.example.Task6_mongoDB.reponsitory.BooksReponsitory;
@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Date;
 import java.util.List;
+
 @RequestMapping("api/books")
 @RestController
 public class BookController {
@@ -55,7 +56,6 @@ public class BookController {
     public List<Book> findFullText(@RequestParam(value="text") String text){
         return repo.findByQuery(text);
     }
-
     @GetMapping("/findFullTextSearch")
     public List<Book> findFullTextSearch(@RequestParam(value="text") String text){
         return this.booksService.findFullTextSearch(text);
