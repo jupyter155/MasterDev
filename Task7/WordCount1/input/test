@@ -1,0 +1,3 @@
+Hadoop provides various Output classes like DBOutputFormat, SequenceFileOutputFormat, TextOutputFormat, etc..It also provides flexibility to its developers to use APIs and extend some of the functionality to achieve organization goals. MapReduce default Output Format is TextOutputFormat, which writes (key, value) pairs on individual lines of text files. By Default, in TextOutputFormat Each key-value pair is separated by a tab character, which can be changed using mapReduce.output.textoutputformat.separator property.
+
+In this example, we will discuss how to create custom output classes and record writers and use that classes as a map reduce program.

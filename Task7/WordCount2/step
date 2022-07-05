@@ -1,0 +1,6 @@
+B1: git clone
+B2: edit cinfiguration
+    build and run :
+        java 8 ; WordCount2
+        input output
+B3: run WordCount2
