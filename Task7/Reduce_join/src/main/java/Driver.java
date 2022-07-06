@@ -11,6 +11,7 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 import org.apache.hadoop.util.GenericOptionsParser;
 
 import java.io.IOException;
+import java.util.Objects;
 
 public class Driver {
         public static class JoinGroupingComparator extends WritableComparator {
@@ -46,15 +47,18 @@ public class Driver {
                 Text, PeopleJob, JoinGenericWritable> {
                 public void map(LongWritable key, Text value, Context context)
                         throws IOException, InterruptedException {
+
                         String[] recordFields = value.toString().split(",");
-                        String job = recordFields[0];
-                        String salary = recordFields[1];
+                        if (!Objects.equals(recordFields[0], "job")) {
+                                String job = recordFields[0];
+                                String salary = recordFields[1];
 
-                        PeopleJob recordKey = new PeopleJob(job, PeopleJob.SALARY_RECORD);
-                        SalaryRecord record = new SalaryRecord(salary);
+                                PeopleJob recordKey = new PeopleJob(job, PeopleJob.SALARY_RECORD);
+                                SalaryRecord record = new SalaryRecord(salary);
 
-                        JoinGenericWritable genericRecord = new JoinGenericWritable(record);
-                        context.write(recordKey, genericRecord);
+                                JoinGenericWritable genericRecord = new JoinGenericWritable(record);
+                                context.write(recordKey, genericRecord);
+                        }
                 }
         }
 
@@ -63,6 +67,7 @@ public class Driver {
                 public void map(LongWritable key, Text value, Context context)
                         throws IOException, InterruptedException {
                         String[] recordFields = value.toString().split(",");
+                        if(!Objects.equals(recordFields[0], "id")){
                         String id = recordFields[0];
                         String first_name = recordFields[1];
                         String last_name = recordFields[2];
@@ -79,20 +84,28 @@ public class Driver {
                         JoinGenericWritable genericRecord = new JoinGenericWritable(record);
                         context.write(recordKey, genericRecord);
                 }
+                }
         }
 
         public static class JoinRecuder extends Reducer<PeopleJob,
                 JoinGenericWritable, NullWritable, Text> {
+                StringBuilder output = new StringBuilder();
+
+                @Override
+                protected void setup(Reducer<PeopleJob, JoinGenericWritable, NullWritable, Text>.Context context) throws IOException, InterruptedException {
+                        output.append("id,first_name,last_name,age,street,city,state,zip,job,salary\n");
+
+                }
+
                 public void reduce(PeopleJob key, Iterable<JoinGenericWritable> values,
                                    Context context) throws IOException, InterruptedException{
-                        StringBuilder output = new StringBuilder();
+
                         String salary = null;
                         for (JoinGenericWritable v : values) {
                                 Writable record = v.get();
                                 if (key.recordType.equals(PeopleJob.SALARY_RECORD)) {
                                         SalaryRecord record2 = (SalaryRecord) record;
                                         salary = record2.salary.toString();
-                                        output.append("id,first_name,last_name,age,street,city,state,zip,job,salary\n");
                                 }
                                 else {
                                         PeopleRecord pRecord = (PeopleRecord) record;
@@ -139,6 +152,7 @@ public class Driver {
 
                 job.setOutputKeyClass(NullWritable.class);
                 job.setOutputValueClass(Text.class);
+                job.setNumReduceTasks(3);
 
                 FileOutputFormat.setOutputPath(job, new Path(allArgs[2]));
                 System.exit(job.waitForCompletion(true) ? 0 : 1);

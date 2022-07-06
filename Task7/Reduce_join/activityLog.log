@@ -1,0 +1,102 @@
+06 Jul 2022 12:16:18,287 main -  map 100% reduce 100%
+06 Jul 2022 12:16:18,287 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$6@6f01b95f]
+java.lang.Exception
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
+	at org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:731)
+	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1653)
+	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1592)
+	at Driver.main(Driver.java:158)
+06 Jul 2022 12:16:18,288 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@1a245833]
+java.lang.Exception
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
+	at org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:330)
+	at org.apache.hadoop.mapreduce.Job.isComplete(Job.java:614)
+	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1630)
+	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1592)
+	at Driver.main(Driver.java:158)
+06 Jul 2022 12:16:18,288 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@5965d37]
+java.lang.Exception
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
+	at org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:330)
+	at org.apache.hadoop.mapreduce.Job.isComplete(Job.java:614)
+	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1631)
+	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1592)
+	at Driver.main(Driver.java:158)
+06 Jul 2022 12:16:18,289 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$6@4201c465]
+java.lang.Exception
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
+	at org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:731)
+	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1653)
+	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1592)
+	at Driver.main(Driver.java:158)
+06 Jul 2022 12:16:18,289 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@6cb107fd]
+java.lang.Exception
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
+	at org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:330)
+	at org.apache.hadoop.mapreduce.Job.isComplete(Job.java:614)
+	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1630)
+	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1592)
+	at Driver.main(Driver.java:158)
+06 Jul 2022 12:16:18,289 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@3de8f619]
+java.lang.Exception
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
+	at org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:330)
+	at org.apache.hadoop.mapreduce.Job.isSuccessful(Job.java:626)
+	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1657)
+	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1592)
+	at Driver.main(Driver.java:158)
+06 Jul 2022 12:16:18,289 main - Job job_local1145087362_0001 completed successfully
+06 Jul 2022 12:16:18,290 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$8@740fb309]
+java.lang.Exception
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
+	at org.apache.hadoop.mapreduce.Job.getCounters(Job.java:819)
+	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1664)
+	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1592)
+	at Driver.main(Driver.java:158)
+06 Jul 2022 12:16:18,307 main - Counters: 30
+	File System Counters
+		FILE: Number of bytes read=119446455
+		FILE: Number of bytes written=137602281
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=200007
+		Map output records=200005
+		Map output bytes=13619936
+		Map output materialized bytes=14019982
+		Input split bytes=512
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=5
+		Reduce shuffle bytes=14019982
+		Reduce input records=200005
+		Reduce output records=5
+		Spilled Records=400010
+		Shuffled Maps =6
+		Failed Shuffles=0
+		Merged Map outputs=6
+		GC time elapsed (ms)=167
+		Total committed heap usage (bytes)=2928148480
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=0
+	File Output Format Counters 
+		Bytes Written=18595351
+06 Jul 2022 12:16:18,307 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@338fc1d8]
+java.lang.Exception
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
+	at org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:330)
+	at org.apache.hadoop.mapreduce.Job.isSuccessful(Job.java:626)
+	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1604)
+	at Driver.main(Driver.java:158)
+06 Jul 2022 12:16:18,310 shutdown-hook-0 - FileSystem.close() by method: org.apache.hadoop.fs.FilterFileSystem.close(FilterFileSystem.java:529)); Key: (minh (auth:SIMPLE))@file://; URI: file:///; Object Identity Hash: 6872645b
+06 Jul 2022 12:16:18,310 shutdown-hook-0 - FileSystem.close() by method: org.apache.hadoop.fs.RawLocalFileSystem.close(RawLocalFileSystem.java:759)); Key: null; URI: file:///; Object Identity Hash: 66b58725
+06 Jul 2022 12:16:18,310 Thread-3 - Completed shutdown in 0.002 seconds; Timeouts: 0
+06 Jul 2022 12:16:18,325 Thread-3 - ShutdownHookManager completed shutdown.
