@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41ed540a-0f48-4829-9a48-1e924c5a80fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Join_during_Map/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Join_during_Map/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Join_during_Map/src/main/java/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Join_during_Map/src/main/java/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Join_during_Map/src/main/java/PeopleRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Join_during_Map/src/main/java/PeopleRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reduce_join/output/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reduce_join/output/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reduce_join/output/.part-r-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reduce_join/output/.part-r-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reduce_join/output/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reduce_join/output/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reduce_join/output/part-r-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reduce_join/output/part-r-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount1/output/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount1/output/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount1/output/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount1/output/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount1/patttent.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WordCount1/patttent.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/people.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/salary.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/People_Salary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/People_Salary_Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/People_Salary_Mapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/People_Salary_Reducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DriverReplicatedJoin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MapperReplicatedJoin.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2BSej2xUXnsYXMHl3gtCCOVfo4E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/home/minh/MasterDev/Task7/map_side_join"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/input" />
+      <recent name="$PROJECT_DIR$/input/2" />
+      <recent name="$PROJECT_DIR$/input/1" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="People_Salary_Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="People_Salary_Driver" />
+      <module name="map_side_join" />
+      <option name="PROGRAM_PARAMETERS" value="input/people.csv output" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.People_Salary_Driver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41ed540a-0f48-4829-9a48-1e924c5a80fd" name="Changes" comment="" />
+      <created>1656904044615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656904044615</updated>
+      <workItem from="1656904045909" duration="8901000" />
+      <workItem from="1657003612669" duration="8343000" />
+      <workItem from="1657072377982" duration="8217000" />
+      <workItem from="1657089116258" duration="4119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
