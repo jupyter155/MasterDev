@@ -15,10 +15,10 @@ public class PeopleRecord implements Writable {
     public Text city = new Text();
     public Text state = new Text();
     public Text zip = new Text();
-
+    public Text job = new Text();
     public PeopleRecord(){}
 
-    public PeopleRecord(String id, String first_name, String last_name, String age, String street, String city, String state, String zip) {
+    public PeopleRecord(String id, String first_name, String last_name, String age, String street, String city, String state, String zip, String job) {
         this.id.set(id);
         this.first_name.set(first_name);
         this.last_name.set(last_name);
@@ -27,6 +27,7 @@ public class PeopleRecord implements Writable {
         this.city.set(city);
         this.state.set(state);
         this.zip.set(zip);
+        this.job.set(job);
     }
 
     public void write(DataOutput out) throws IOException {
@@ -38,6 +39,7 @@ public class PeopleRecord implements Writable {
         this.city.write(out);
         this.state.write(out);
         this.zip.write(out);
+        this.job.write(out);
     }
 
     public void readFields(DataInput in) throws IOException {
@@ -49,5 +51,6 @@ public class PeopleRecord implements Writable {
         this.city.readFields(in);
         this.state.readFields(in);
         this.zip.readFields(in);
+        this.job.readFields(in);
     }
 }
