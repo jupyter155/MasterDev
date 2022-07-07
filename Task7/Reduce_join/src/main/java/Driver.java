@@ -80,7 +80,6 @@ public class Driver {
 
                         PeopleJob recordKey = new PeopleJob(job, PeopleJob.PEOPLE_RECORD);
                         PeopleRecord record = new PeopleRecord(id, first_name,last_name,age,street,city,state,zip,job);
-
                         JoinGenericWritable genericRecord = new JoinGenericWritable(record);
                         context.write(recordKey, genericRecord);
                 }

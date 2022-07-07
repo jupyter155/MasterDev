@@ -1,331 +1,1005 @@
-06 Jul 2022 15:57:11,386 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7802880
-06 Jul 2022 15:57:11,386 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7806976
-06 Jul 2022 15:57:11,386 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7811072
-06 Jul 2022 15:57:11,386 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7815168
-06 Jul 2022 15:57:11,386 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7819264
-06 Jul 2022 15:57:11,386 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7823360
-06 Jul 2022 15:57:11,386 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7827456
-06 Jul 2022 15:57:11,386 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7831552
-06 Jul 2022 15:57:11,386 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7835648
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7839744
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7843840
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7847936
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7852032
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7856128
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7860224
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 61440
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7864320
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7868416
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7872512
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7876608
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7880704
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7884800
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7888896
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7892992
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7897088
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7901184
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7905280
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7909376
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7913472
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7917568
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7921664
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7925760
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7929856
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7933952
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7938048
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7942144
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7946240
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7950336
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7954432
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7958528
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7962624
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7966720
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7970816
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7974912
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7979008
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7983104
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7987200
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7991296
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7995392
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7999488
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8003584
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8007680
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8011776
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8015872
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8019968
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8024064
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8028160
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8032256
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8036352
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8040448
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8044544
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8048640
-06 Jul 2022 15:57:11,387 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8052736
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8056832
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8060928
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8065024
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8069120
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8073216
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8077312
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8081408
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8085504
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8089600
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8093696
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8097792
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8101888
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8105984
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8110080
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8114176
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8118272
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8122368
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8126464
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8130560
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8134656
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8138752
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8142848
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8146944
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8151040
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8155136
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8159232
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8163328
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8167424
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8171520
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8175616
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8179712
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8183808
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8187904
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8192000
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8196096
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8200192
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8204288
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8208384
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8212480
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8216576
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8220672
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8224768
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8228864
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8232960
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8237056
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8241152
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8245248
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8249344
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8253440
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8257536
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8261632
-06 Jul 2022 15:57:11,388 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8265728
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8269824
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8273920
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8278016
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8282112
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8286208
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8290304
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8294400
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8298496
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8302592
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8306688
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8310784
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8314880
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8318976
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8323072
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8327168
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8331264
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8335360
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8339456
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8343552
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8347648
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8351744
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8355840
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8359936
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8364032
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8368128
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8372224
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8376320
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8380416
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8384512
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 65536
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8388608
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8392704
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8396800
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8400896
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8404992
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8409088
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8413184
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8417280
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8421376
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8425472
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8429568
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8433664
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8437760
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8441856
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8445952
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8450048
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8454144
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8458240
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8462336
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8466432
-06 Jul 2022 15:57:11,389 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8470528
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8474624
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8478720
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8482816
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8486912
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8491008
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8495104
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8499200
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8503296
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8507392
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8511488
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8515584
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8519680
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8523776
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8527872
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8531968
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8536064
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8540160
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8544256
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8548352
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8552448
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8556544
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8560640
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8564736
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8568832
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8572928
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8577024
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8581120
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8585216
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8589312
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8593408
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8597504
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8601600
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8605696
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8609792
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8613888
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8617984
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8622080
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8626176
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8630272
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8634368
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8638464
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8642560
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8646656
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8650752
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8654848
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8658944
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8663040
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8667136
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8671232
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8675328
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8679424
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8683520
-06 Jul 2022 15:57:11,390 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8687616
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8691712
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8695808
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8699904
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8704000
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8708096
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8712192
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8716288
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8720384
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8724480
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8728576
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8732672
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8736768
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8740864
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8744960
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8749056
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8753152
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8757248
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8761344
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8765440
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8769536
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8773632
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8777728
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8781824
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8785920
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8790016
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8794112
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8798208
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8802304
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8806400
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8810496
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8814592
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8818688
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8822784
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8826880
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8830976
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8835072
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8839168
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8843264
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8847360
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8851456
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8855552
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8859648
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8863744
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8867840
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8871936
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8876032
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8880128
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8884224
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8888320
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8892416
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8896512
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8900608
-06 Jul 2022 15:57:11,391 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8904704
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8908800
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 69632
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8912896
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8916992
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8921088
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8925184
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8929280
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8933376
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8937472
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8941568
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8945664
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8949760
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8953856
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8957952
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8962048
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8966144
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8970240
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8974336
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8978432
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8982528
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8986624
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8990720
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8994816
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8998912
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9003008
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9007104
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9011200
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9015296
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9019392
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9023488
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9027584
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9031680
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9035776
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9039872
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9043968
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9048064
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9052160
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9056256
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9060352
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9064448
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9068544
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9072640
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9076736
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 1300 with final value 70932
-06 Jul 2022 15:57:11,392 pool-4-thread-1 - Incrementing counter stream_write_bytes by 1451 with final value 9078187
-06 Jul 2022 15:57:11,393 pool-4-thread-1 - Task:attempt_local1046414427_0001_r_000002_0 is done. And is in the process of committing
-06 Jul 2022 15:57:11,396 pool-4-thread-1 - 2 / 2 copied.
-06 Jul 2022 15:57:11,396 pool-4-thread-1 - Task attempt_local1046414427_0001_r_000002_0 is allowed to commit now
-06 Jul 2022 15:57:11,397 pool-4-thread-1 - Starting: Merging data from DeprecatedRawLocalFileStatus{path=file:/home/minh/MasterDev/Task7/Reduce_join/output/_temporary/0/_temporary/attempt_local1046414427_0001_r_000002_0; isDirectory=true; modification_time=1657097831043; access_time=1657097831000; owner=; group=; permission=rwxrwxrwx; isSymlink=false; hasAcl=false; isEncrypted=false; isErasureCoded=false} to file:/home/minh/MasterDev/Task7/Reduce_join/output
-06 Jul 2022 15:57:11,398 pool-4-thread-1 - Starting: Merging data from DeprecatedRawLocalFileStatus{path=file:/home/minh/MasterDev/Task7/Reduce_join/output/_temporary/0/_temporary/attempt_local1046414427_0001_r_000002_0/part-r-00002; isDirectory=false; length=9078187; replication=1; blocksize=33554432; modification_time=1657097831387; access_time=1657097831000; owner=; group=; permission=rw-rw-rw-; isSymlink=false; hasAcl=false; isEncrypted=false; isErasureCoded=false} to file:/home/minh/MasterDev/Task7/Reduce_join/output/part-r-00002
-06 Jul 2022 15:57:11,398 pool-4-thread-1 - Merging data from DeprecatedRawLocalFileStatus{path=file:/home/minh/MasterDev/Task7/Reduce_join/output/_temporary/0/_temporary/attempt_local1046414427_0001_r_000002_0/part-r-00002; isDirectory=false; length=9078187; replication=1; blocksize=33554432; modification_time=1657097831387; access_time=1657097831000; owner=; group=; permission=rw-rw-rw-; isSymlink=false; hasAcl=false; isEncrypted=false; isErasureCoded=false} to file:/home/minh/MasterDev/Task7/Reduce_join/output/part-r-00002: duration 0:00.000s
-06 Jul 2022 15:57:11,399 pool-4-thread-1 - Merging data from DeprecatedRawLocalFileStatus{path=file:/home/minh/MasterDev/Task7/Reduce_join/output/_temporary/0/_temporary/attempt_local1046414427_0001_r_000002_0; isDirectory=true; modification_time=1657097831043; access_time=1657097831000; owner=; group=; permission=rwxrwxrwx; isSymlink=false; hasAcl=false; isEncrypted=false; isErasureCoded=false} to file:/home/minh/MasterDev/Task7/Reduce_join/output: duration 0:00.001s
-06 Jul 2022 15:57:11,399 pool-4-thread-1 - Saved output of task 'attempt_local1046414427_0001_r_000002_0' to file:/home/minh/MasterDev/Task7/Reduce_join/output
-06 Jul 2022 15:57:11,407 pool-4-thread-1 - reduce > reduce
-06 Jul 2022 15:57:11,407 pool-4-thread-1 - Task 'attempt_local1046414427_0001_r_000002_0' done.
-06 Jul 2022 15:57:11,407 pool-4-thread-1 - Final Counters for attempt_local1046414427_0001_r_000002_0: Counters: 24
+07 Jul 2022 00:02:17,860 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5062656
+07 Jul 2022 00:02:17,860 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5066752
+07 Jul 2022 00:02:17,860 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5070848
+07 Jul 2022 00:02:17,860 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5074944
+07 Jul 2022 00:02:17,860 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5079040
+07 Jul 2022 00:02:17,860 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5083136
+07 Jul 2022 00:02:17,860 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5087232
+07 Jul 2022 00:02:17,860 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5091328
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5095424
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5099520
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5103616
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5107712
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5111808
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5115904
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5120000
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5124096
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5128192
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5132288
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5136384
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5140480
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5144576
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5148672
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5152768
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5156864
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5160960
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5165056
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5169152
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5173248
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5177344
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5181440
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5185536
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5189632
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5193728
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5197824
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5201920
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5206016
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5210112
+07 Jul 2022 00:02:17,861 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5214208
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5218304
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5222400
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5226496
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5230592
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5234688
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5238784
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 40960
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5242880
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5246976
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5251072
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5255168
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5259264
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5263360
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5267456
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5271552
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5275648
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5279744
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5283840
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5287936
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5292032
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5296128
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5300224
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5304320
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5308416
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5312512
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5316608
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5320704
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5324800
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5328896
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5332992
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5337088
+07 Jul 2022 00:02:17,862 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5341184
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5345280
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5349376
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5353472
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5357568
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5361664
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5365760
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5369856
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5373952
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5378048
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5382144
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5386240
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5390336
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5394432
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5398528
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5402624
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5406720
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5410816
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5414912
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5419008
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5423104
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5427200
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5431296
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5435392
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5439488
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5443584
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5447680
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5451776
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5455872
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5459968
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5464064
+07 Jul 2022 00:02:17,863 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5468160
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5472256
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5476352
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5480448
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5484544
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5488640
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5492736
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5496832
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5500928
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5505024
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5509120
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5513216
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5517312
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5521408
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5525504
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5529600
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5533696
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5537792
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5541888
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5545984
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5550080
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5554176
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5558272
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5562368
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5566464
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5570560
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5574656
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5578752
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5582848
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5586944
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5591040
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5595136
+07 Jul 2022 00:02:17,864 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5599232
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5603328
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5607424
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5611520
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5615616
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5619712
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5623808
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5627904
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5632000
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5636096
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5640192
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5644288
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5648384
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5652480
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5656576
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5660672
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5664768
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5668864
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5672960
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5677056
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5681152
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5685248
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5689344
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5693440
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5697536
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5701632
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5705728
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5709824
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5713920
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5718016
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5722112
+07 Jul 2022 00:02:17,865 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5726208
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5730304
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5734400
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5738496
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5742592
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5746688
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5750784
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5754880
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5758976
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5763072
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 45056
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5767168
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5771264
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5775360
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5779456
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5783552
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5787648
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5791744
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5795840
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5799936
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5804032
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5808128
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5812224
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5816320
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5820416
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5824512
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5828608
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5832704
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5836800
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5840896
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5844992
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5849088
+07 Jul 2022 00:02:17,866 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5853184
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5857280
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5861376
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5865472
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5869568
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5873664
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5877760
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5881856
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5885952
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5890048
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5894144
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5898240
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5902336
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5906432
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5910528
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5914624
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5918720
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5922816
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5926912
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5931008
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5935104
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5939200
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5943296
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5947392
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5951488
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5955584
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5959680
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5963776
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5967872
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5971968
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5976064
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5980160
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5984256
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5988352
+07 Jul 2022 00:02:17,867 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5992448
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 5996544
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6000640
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6004736
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6008832
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6012928
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6017024
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6021120
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6025216
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6029312
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6033408
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6037504
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6041600
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6045696
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6049792
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6053888
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6057984
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6062080
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6066176
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6070272
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6074368
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6078464
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6082560
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6086656
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6090752
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6094848
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6098944
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6103040
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6107136
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6111232
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6115328
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6119424
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6123520
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6127616
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6131712
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6135808
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6139904
+07 Jul 2022 00:02:17,868 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6144000
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6148096
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6152192
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6156288
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6160384
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6164480
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6168576
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6172672
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6176768
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6180864
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6184960
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6189056
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6193152
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6197248
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6201344
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6205440
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6209536
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6213632
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6217728
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6221824
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6225920
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6230016
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6234112
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6238208
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6242304
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6246400
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6250496
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6254592
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6258688
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6262784
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6266880
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6270976
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6275072
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6279168
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6283264
+07 Jul 2022 00:02:17,869 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6287360
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 49152
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6291456
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6295552
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6299648
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6303744
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6307840
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6311936
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6316032
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6320128
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6324224
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6328320
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6332416
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6336512
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6340608
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6344704
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6348800
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6352896
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6356992
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6361088
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6365184
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6369280
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6373376
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6377472
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6381568
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6385664
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6389760
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6393856
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6397952
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6402048
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6406144
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6410240
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6414336
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6418432
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6422528
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6426624
+07 Jul 2022 00:02:17,870 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6430720
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6434816
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6438912
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6443008
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6447104
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6451200
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6455296
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6459392
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6463488
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6467584
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6471680
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6475776
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6479872
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6483968
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6488064
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6492160
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6496256
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6500352
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6504448
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6508544
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6512640
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6516736
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6520832
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6524928
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6529024
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6533120
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6537216
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6541312
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6545408
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6549504
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6553600
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6557696
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6561792
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6565888
+07 Jul 2022 00:02:17,871 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6569984
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6574080
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6578176
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6582272
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6586368
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6590464
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6594560
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6598656
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6602752
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6606848
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6610944
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6615040
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6619136
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6623232
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6627328
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6631424
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6635520
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6639616
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6643712
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6647808
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6651904
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6656000
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6660096
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6664192
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6668288
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6672384
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6676480
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6680576
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6684672
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6688768
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6692864
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6696960
+07 Jul 2022 00:02:17,872 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6701056
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6705152
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6709248
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6713344
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6717440
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6721536
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6725632
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6729728
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6733824
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6737920
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6742016
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6746112
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6750208
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6754304
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6758400
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6762496
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6766592
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6770688
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6774784
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6778880
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6782976
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6787072
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6791168
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6795264
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6799360
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6803456
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6807552
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6811648
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 53248
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6815744
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6819840
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6823936
+07 Jul 2022 00:02:17,873 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6828032
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6832128
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6836224
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6840320
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6844416
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6848512
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6852608
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6856704
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6860800
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6864896
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6868992
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6873088
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6877184
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6881280
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6885376
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6889472
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6893568
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6897664
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6901760
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6905856
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6909952
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6914048
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6918144
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6922240
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6926336
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6930432
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6934528
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6938624
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6942720
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6946816
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6950912
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6955008
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6959104
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6963200
+07 Jul 2022 00:02:17,874 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6967296
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6971392
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6975488
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6979584
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6983680
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6987776
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6991872
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 6995968
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7000064
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7004160
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7008256
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7012352
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7016448
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7020544
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7024640
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7028736
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7032832
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7036928
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7041024
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7045120
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7049216
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7053312
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7057408
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7061504
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7065600
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7069696
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7073792
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7077888
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7081984
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7086080
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7090176
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7094272
+07 Jul 2022 00:02:17,875 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7098368
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7102464
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7106560
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7110656
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7114752
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7118848
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7122944
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7127040
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7131136
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7135232
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7139328
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7143424
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7147520
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7151616
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7155712
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7159808
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7163904
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7168000
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7172096
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7176192
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7180288
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7184384
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7188480
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7192576
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7196672
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7200768
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7204864
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7208960
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7213056
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7217152
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7221248
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7225344
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7229440
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7233536
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7237632
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7241728
+07 Jul 2022 00:02:17,876 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7245824
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7249920
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7254016
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7258112
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7262208
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7266304
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7270400
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7274496
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7278592
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7282688
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7286784
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7290880
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7294976
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7299072
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7303168
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7307264
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7311360
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7315456
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7319552
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7323648
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7327744
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7331840
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7335936
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 57344
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7340032
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7344128
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7348224
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7352320
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7356416
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7360512
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7364608
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7368704
+07 Jul 2022 00:02:17,877 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7372800
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7376896
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7380992
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7385088
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7389184
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7393280
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7397376
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7401472
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7405568
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7409664
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7413760
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7417856
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7421952
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7426048
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7430144
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7434240
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7438336
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7442432
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7446528
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7450624
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7454720
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7458816
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7462912
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7467008
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7471104
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7475200
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7479296
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7483392
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7487488
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7491584
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7495680
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7499776
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7503872
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7507968
+07 Jul 2022 00:02:17,878 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7512064
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7516160
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7520256
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7524352
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7528448
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7532544
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7536640
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7540736
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7544832
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7548928
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7553024
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7557120
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7561216
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7565312
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7569408
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7573504
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7577600
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7581696
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7585792
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7589888
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7593984
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7598080
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7602176
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7606272
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7610368
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7614464
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7618560
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7622656
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7626752
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7630848
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7634944
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7639040
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7643136
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7647232
+07 Jul 2022 00:02:17,879 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7651328
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7655424
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7659520
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7663616
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7667712
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7671808
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7675904
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7680000
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7684096
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7688192
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7692288
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7696384
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7700480
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7704576
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7708672
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7712768
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7716864
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7720960
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7725056
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7729152
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7733248
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7737344
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7741440
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7745536
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7749632
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7753728
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7757824
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7761920
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7766016
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7770112
+07 Jul 2022 00:02:17,880 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7774208
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7778304
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7782400
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7786496
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7790592
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7794688
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7798784
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7802880
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7806976
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7811072
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7815168
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7819264
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7823360
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7827456
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7831552
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7835648
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7839744
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7843840
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7847936
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7852032
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7856128
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7860224
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 61440
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7864320
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7868416
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7872512
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7876608
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7880704
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7884800
+07 Jul 2022 00:02:17,881 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7888896
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7892992
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7897088
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7901184
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7905280
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7909376
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7913472
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7917568
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7921664
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7925760
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7929856
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7933952
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7938048
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7942144
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7946240
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7950336
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7954432
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7958528
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7962624
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7966720
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7970816
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7974912
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7979008
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7983104
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7987200
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7991296
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7995392
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 7999488
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8003584
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8007680
+07 Jul 2022 00:02:17,882 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8011776
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8015872
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8019968
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8024064
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8028160
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8032256
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8036352
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8040448
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8044544
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8048640
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8052736
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8056832
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8060928
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8065024
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8069120
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8073216
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8077312
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8081408
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8085504
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8089600
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8093696
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8097792
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8101888
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8105984
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8110080
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8114176
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8118272
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8122368
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8126464
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8130560
+07 Jul 2022 00:02:17,883 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8134656
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8138752
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8142848
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8146944
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8151040
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8155136
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8159232
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8163328
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8167424
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8171520
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8175616
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8179712
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8183808
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8187904
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8192000
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8196096
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8200192
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8204288
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8208384
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8212480
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8216576
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8220672
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8224768
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8228864
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8232960
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8237056
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8241152
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8245248
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8249344
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8253440
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8257536
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8261632
+07 Jul 2022 00:02:17,884 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8265728
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8269824
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8273920
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8278016
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8282112
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8286208
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8290304
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8294400
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8298496
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8302592
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8306688
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8310784
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8314880
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8318976
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8323072
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8327168
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8331264
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8335360
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8339456
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8343552
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8347648
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8351744
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8355840
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8359936
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8364032
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8368128
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8372224
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8376320
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8380416
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8384512
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 65536
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8388608
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8392704
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8396800
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8400896
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8404992
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8409088
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8413184
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8417280
+07 Jul 2022 00:02:17,885 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8421376
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8425472
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8429568
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8433664
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8437760
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8441856
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8445952
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8450048
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8454144
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8458240
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8462336
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8466432
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8470528
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8474624
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8478720
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8482816
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8486912
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8491008
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8495104
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8499200
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8503296
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8507392
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8511488
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8515584
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8519680
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8523776
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8527872
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8531968
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8536064
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8540160
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8544256
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8548352
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8552448
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8556544
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8560640
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8564736
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8568832
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8572928
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8577024
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8581120
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8585216
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8589312
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8593408
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8597504
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8601600
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8605696
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8609792
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8613888
+07 Jul 2022 00:02:17,886 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8617984
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8622080
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8626176
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8630272
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8634368
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8638464
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8642560
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8646656
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8650752
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8654848
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8658944
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8663040
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8667136
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8671232
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8675328
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8679424
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8683520
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8687616
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8691712
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8695808
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8699904
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8704000
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8708096
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8712192
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8716288
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8720384
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8724480
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8728576
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8732672
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8736768
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8740864
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8744960
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8749056
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8753152
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8757248
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8761344
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8765440
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8769536
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8773632
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8777728
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8781824
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8785920
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8790016
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8794112
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8798208
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8802304
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8806400
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8810496
+07 Jul 2022 00:02:17,887 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8814592
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8818688
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8822784
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8826880
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8830976
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8835072
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8839168
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8843264
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8847360
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8851456
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8855552
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8859648
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8863744
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8867840
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8871936
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8876032
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8880128
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8884224
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8888320
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8892416
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8896512
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8900608
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8904704
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8908800
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 69632
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8912896
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8916992
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8921088
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8925184
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8929280
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8933376
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8937472
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8941568
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8945664
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8949760
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8953856
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8957952
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8962048
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8966144
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8970240
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8974336
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8978432
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8982528
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8986624
+07 Jul 2022 00:02:17,888 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8990720
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8994816
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 8998912
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9003008
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9007104
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9011200
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9015296
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9019392
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9023488
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9027584
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9031680
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9035776
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9039872
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9043968
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9048064
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9052160
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9056256
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9060352
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9064448
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9068544
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9072640
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 4096 with final value 9076736
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 1300 with final value 70932
+07 Jul 2022 00:02:17,889 pool-4-thread-1 - Incrementing counter stream_write_bytes by 1451 with final value 9078187
+07 Jul 2022 00:02:17,890 pool-4-thread-1 - Task:attempt_local1133790867_0001_r_000002_0 is done. And is in the process of committing
+07 Jul 2022 00:02:17,891 pool-4-thread-1 - 2 / 2 copied.
+07 Jul 2022 00:02:17,891 pool-4-thread-1 - Task attempt_local1133790867_0001_r_000002_0 is allowed to commit now
+07 Jul 2022 00:02:17,892 pool-4-thread-1 - Starting: Merging data from DeprecatedRawLocalFileStatus{path=file:/home/minh/MasterDev/Task7/Reduce_join/output/_temporary/0/_temporary/attempt_local1133790867_0001_r_000002_0; isDirectory=true; modification_time=1657126937271; access_time=1657126937000; owner=; group=; permission=rwxrwxrwx; isSymlink=false; hasAcl=false; isEncrypted=false; isErasureCoded=false} to file:/home/minh/MasterDev/Task7/Reduce_join/output
+07 Jul 2022 00:02:17,892 pool-4-thread-1 - Starting: Merging data from DeprecatedRawLocalFileStatus{path=file:/home/minh/MasterDev/Task7/Reduce_join/output/_temporary/0/_temporary/attempt_local1133790867_0001_r_000002_0/part-r-00002; isDirectory=false; length=9078187; replication=1; blocksize=33554432; modification_time=1657126937887; access_time=1657126937000; owner=; group=; permission=rw-rw-rw-; isSymlink=false; hasAcl=false; isEncrypted=false; isErasureCoded=false} to file:/home/minh/MasterDev/Task7/Reduce_join/output/part-r-00002
+07 Jul 2022 00:02:17,893 pool-4-thread-1 - Merging data from DeprecatedRawLocalFileStatus{path=file:/home/minh/MasterDev/Task7/Reduce_join/output/_temporary/0/_temporary/attempt_local1133790867_0001_r_000002_0/part-r-00002; isDirectory=false; length=9078187; replication=1; blocksize=33554432; modification_time=1657126937887; access_time=1657126937000; owner=; group=; permission=rw-rw-rw-; isSymlink=false; hasAcl=false; isEncrypted=false; isErasureCoded=false} to file:/home/minh/MasterDev/Task7/Reduce_join/output/part-r-00002: duration 0:00.001s
+07 Jul 2022 00:02:17,893 pool-4-thread-1 - Merging data from DeprecatedRawLocalFileStatus{path=file:/home/minh/MasterDev/Task7/Reduce_join/output/_temporary/0/_temporary/attempt_local1133790867_0001_r_000002_0; isDirectory=true; modification_time=1657126937271; access_time=1657126937000; owner=; group=; permission=rwxrwxrwx; isSymlink=false; hasAcl=false; isEncrypted=false; isErasureCoded=false} to file:/home/minh/MasterDev/Task7/Reduce_join/output: duration 0:00.002s
+07 Jul 2022 00:02:17,893 pool-4-thread-1 - Saved output of task 'attempt_local1133790867_0001_r_000002_0' to file:/home/minh/MasterDev/Task7/Reduce_join/output
+07 Jul 2022 00:02:17,898 pool-4-thread-1 - reduce > reduce
+07 Jul 2022 00:02:17,898 pool-4-thread-1 - Task 'attempt_local1133790867_0001_r_000002_0' done.
+07 Jul 2022 00:02:17,899 pool-4-thread-1 - Final Counters for attempt_local1133790867_0001_r_000002_0: Counters: 24
 	File System Counters
 		FILE: Number of bytes read=44747811
 		FILE: Number of bytes written=54355415
@@ -343,8 +1017,8 @@
 		Shuffled Maps =2
 		Failed Shuffles=0
 		Merged Map outputs=2
-		GC time elapsed (ms)=4
-		Total committed heap usage (bytes)=664797184
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=590348288
 	Shuffle Errors
 		BAD_ID=0
 		CONNECTION=0
@@ -354,11 +1028,11 @@
 		WRONG_REDUCE=0
 	File Output Format Counters 
 		Bytes Written=9149119
-06 Jul 2022 15:57:11,408 pool-4-thread-1 - Finishing task: attempt_local1046414427_0001_r_000002_0
-06 Jul 2022 15:57:11,408 pool-4-thread-1 - afterExecute in thread: pool-4-thread-1, runnable type: java.util.concurrent.FutureTask
-06 Jul 2022 15:57:11,408 Thread-21 - reduce task executor complete.
-06 Jul 2022 15:57:11,445 Thread-21 - Incrementing counter stream_write_bytes by 8 with final value 8
-06 Jul 2022 15:57:11,447 Thread-21 - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.fs.FileContext$2@7ba51532]
+07 Jul 2022 00:02:17,899 pool-4-thread-1 - Finishing task: attempt_local1133790867_0001_r_000002_0
+07 Jul 2022 00:02:17,899 pool-4-thread-1 - afterExecute in thread: pool-4-thread-1, runnable type: java.util.concurrent.FutureTask
+07 Jul 2022 00:02:17,899 Thread-21 - reduce task executor complete.
+07 Jul 2022 00:02:17,915 Thread-21 - Incrementing counter stream_write_bytes by 8 with final value 8
+07 Jul 2022 00:02:17,918 Thread-21 - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.fs.FileContext$2@37abf2f1]
 java.lang.Exception
 	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
 	at org.apache.hadoop.fs.FileContext.getAbstractFileSystem(FileContext.java:339)
@@ -367,15 +1041,15 @@ java.lang.Exception
 	at org.apache.hadoop.fs.FileContext.getLocalFSFileContext(FileContext.java:428)
 	at org.apache.hadoop.mapred.LocalDistributedCacheManager.close(LocalDistributedCacheManager.java:270)
 	at org.apache.hadoop.mapred.LocalJobRunner$Job.run(LocalJobRunner.java:598)
-06 Jul 2022 15:57:12,215 main -  map 100% reduce 100%
-06 Jul 2022 15:57:12,215 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$6@1b5bc39d]
+07 Jul 2022 00:02:18,679 main -  map 100% reduce 100%
+07 Jul 2022 00:02:18,680 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$6@4722ef0c]
 java.lang.Exception
 	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
 	at org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:731)
 	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1653)
 	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1592)
 	at Driver.main(Driver.java:159)
-06 Jul 2022 15:57:12,216 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@1494b84d]
+07 Jul 2022 00:02:18,680 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@55cb6996]
 java.lang.Exception
 	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
 	at org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:330)
@@ -383,7 +1057,7 @@ java.lang.Exception
 	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1630)
 	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1592)
 	at Driver.main(Driver.java:159)
-06 Jul 2022 15:57:12,216 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@71a9b4c7]
+07 Jul 2022 00:02:18,680 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@480d3575]
 java.lang.Exception
 	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
 	at org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:330)
@@ -391,14 +1065,14 @@ java.lang.Exception
 	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1631)
 	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1592)
 	at Driver.main(Driver.java:159)
-06 Jul 2022 15:57:12,216 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$6@77cf3f8b]
+07 Jul 2022 00:02:18,681 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$6@194fad1]
 java.lang.Exception
 	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
 	at org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:731)
 	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1653)
 	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1592)
 	at Driver.main(Driver.java:159)
-06 Jul 2022 15:57:12,216 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@21ca139c]
+07 Jul 2022 00:02:18,681 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@72c8e7b]
 java.lang.Exception
 	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
 	at org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:330)
@@ -406,7 +1080,7 @@ java.lang.Exception
 	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1630)
 	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1592)
 	at Driver.main(Driver.java:159)
-06 Jul 2022 15:57:12,216 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@2cd2c8fe]
+07 Jul 2022 00:02:18,681 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@431cd9b2]
 java.lang.Exception
 	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
 	at org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:330)
@@ -414,15 +1088,15 @@ java.lang.Exception
 	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1657)
 	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1592)
 	at Driver.main(Driver.java:159)
-06 Jul 2022 15:57:12,217 main - Job job_local1046414427_0001 completed successfully
-06 Jul 2022 15:57:12,217 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$8@1a6f2363]
+07 Jul 2022 00:02:18,681 main - Job job_local1133790867_0001 completed successfully
+07 Jul 2022 00:02:18,682 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$8@5c7933ad]
 java.lang.Exception
 	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
 	at org.apache.hadoop.mapreduce.Job.getCounters(Job.java:819)
 	at org.apache.hadoop.mapreduce.Job.monitorAndPrintJob(Job.java:1664)
 	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1592)
 	at Driver.main(Driver.java:159)
-06 Jul 2022 15:57:12,251 main - Counters: 30
+07 Jul 2022 00:02:18,698 main - Counters: 30
 	File System Counters
 		FILE: Number of bytes read=127773365
 		FILE: Number of bytes written=158579883
@@ -445,8 +1119,8 @@ java.lang.Exception
 		Shuffled Maps =6
 		Failed Shuffles=0
 		Merged Map outputs=6
-		GC time elapsed (ms)=102
-		Total committed heap usage (bytes)=2864709632
+		GC time elapsed (ms)=408
+		Total committed heap usage (bytes)=2766667776
 	Shuffle Errors
 		BAD_ID=0
 		CONNECTION=0
@@ -458,14 +1132,14 @@ java.lang.Exception
 		Bytes Read=0
 	File Output Format Counters 
 		Bytes Written=21819185
-06 Jul 2022 15:57:12,252 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@16afbd92]
+07 Jul 2022 00:02:18,698 main - PrivilegedAction [as: minh (auth:SIMPLE)][action: org.apache.hadoop.mapreduce.Job$1@333d4a8c]
 java.lang.Exception
 	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1875)
 	at org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:330)
 	at org.apache.hadoop.mapreduce.Job.isSuccessful(Job.java:626)
 	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1604)
 	at Driver.main(Driver.java:159)
-06 Jul 2022 15:57:12,275 shutdown-hook-0 - FileSystem.close() by method: org.apache.hadoop.fs.FilterFileSystem.close(FilterFileSystem.java:529)); Key: (minh (auth:SIMPLE))@file://; URI: file:///; Object Identity Hash: 41f5df28
-06 Jul 2022 15:57:12,276 shutdown-hook-0 - FileSystem.close() by method: org.apache.hadoop.fs.RawLocalFileSystem.close(RawLocalFileSystem.java:759)); Key: null; URI: file:///; Object Identity Hash: 4f323966
-06 Jul 2022 15:57:12,276 Thread-3 - Completed shutdown in 0.011 seconds; Timeouts: 0
-06 Jul 2022 15:57:12,291 Thread-3 - ShutdownHookManager completed shutdown.
+07 Jul 2022 00:02:18,701 shutdown-hook-0 - FileSystem.close() by method: org.apache.hadoop.fs.FilterFileSystem.close(FilterFileSystem.java:529)); Key: (minh (auth:SIMPLE))@file://; URI: file:///; Object Identity Hash: d804446
+07 Jul 2022 00:02:18,701 shutdown-hook-0 - FileSystem.close() by method: org.apache.hadoop.fs.RawLocalFileSystem.close(RawLocalFileSystem.java:759)); Key: null; URI: file:///; Object Identity Hash: 347ab86
+07 Jul 2022 00:02:18,702 Thread-3 - Completed shutdown in 0.002 seconds; Timeouts: 0
+07 Jul 2022 00:02:18,718 Thread-3 - ShutdownHookManager completed shutdown.
