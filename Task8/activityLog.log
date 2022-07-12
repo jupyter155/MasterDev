@@ -1,0 +1,618 @@
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </button_id>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(button_id, 1)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <count>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(count, 2)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 1
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addLong(1)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </count>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(count, 2)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE END >
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- end message -->
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- start message -->
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE START >
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <user_id_device_model>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [54, 48, 57, 50, 52, 53, 57, 52, 45, 56, 98, 48, 56, 45, 52, 52, 54, 98, 45, 56, 99, 57, 49, 45, 52, 53, 97, 98, 48, 97, 55, 56, 52, 99, 54, 54, 95, 105, 80, 104, 111, 110, 101]
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(43 bytes)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </user_id_device_model>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <button_id>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(button_id, 1)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [115, 101, 97, 108, 100, 101, 97, 108, 95, 112, 111, 115, 116]
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(13 bytes)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </button_id>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(button_id, 1)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <count>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(count, 2)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 1
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addLong(1)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </count>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(count, 2)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE END >
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- end message -->
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- start message -->
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE START >
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <user_id_device_model>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [54, 48, 57, 50, 52, 53, 57, 52, 45, 56, 98, 48, 56, 45, 52, 52, 54, 98, 45, 56, 99, 57, 49, 45, 52, 53, 97, 98, 48, 97, 55, 56, 52, 99, 54, 54, 95, 105, 80, 104, 111, 110, 101]
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(43 bytes)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </user_id_device_model>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <button_id>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(button_id, 1)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [112, 114, 111, 100, 117, 99, 116, 95, 115, 117, 103, 103, 101, 115, 116, 95, 111, 112, 116, 95, 35]
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(21 bytes)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </button_id>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(button_id, 1)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <count>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(count, 2)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 1
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addLong(1)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </count>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(count, 2)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE END >
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- end message -->
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- start message -->
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE START >
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <user_id_device_model>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [53, 100, 51, 53, 50, 53, 51, 52, 45, 53, 52, 100, 99, 45, 52, 102, 48, 100, 45, 57, 98, 97, 97, 45, 52, 54, 52, 100, 48, 97, 48, 97, 48, 50, 54, 54, 95, 79, 80, 80, 79, 32, 47, 32, 67, 80, 72, 49, 57, 54, 57]
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(51 bytes)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </user_id_device_model>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <button_id>
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(button_id, 1)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [115, 101, 97, 108, 95, 100, 101, 97, 108, 95, 100, 101, 108, 105, 118, 101, 114, 95, 116, 105, 109, 101, 95, 111, 112, 116, 49]
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(27 bytes)
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,340 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </button_id>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(button_id, 1)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <count>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(count, 2)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 2
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addLong(2)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </count>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(count, 2)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE END >
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- end message -->
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- start message -->
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE START >
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <user_id_device_model>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [53, 102, 50, 56, 99, 57, 50, 55, 45, 48, 54, 49, 56, 45, 52, 56, 49, 102, 45, 56, 56, 101, 101, 45, 52, 52, 51, 48, 48, 97, 54, 101, 52, 99, 52, 55, 95, 105, 80, 104, 111, 110, 101]
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(43 bytes)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </user_id_device_model>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <button_id>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(button_id, 1)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [115, 101, 97, 108, 100, 101, 97, 108, 95, 101, 120, 112, 97, 110, 100]
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(15 bytes)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </button_id>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(button_id, 1)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <count>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(count, 2)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 1
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addLong(1)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </count>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(count, 2)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE END >
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- end message -->
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- start message -->
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE START >
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <user_id_device_model>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [53, 99, 98, 98, 48, 102, 102, 97, 45, 102, 57, 53, 48, 45, 52, 52, 54, 102, 45, 98, 56, 99, 53, 45, 52, 97, 54, 102, 48, 97, 48, 97, 48, 50, 49, 48, 95, 105, 80, 104, 111, 110, 101]
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(43 bytes)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </user_id_device_model>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <button_id>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(button_id, 1)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [98, 105, 108, 108, 95, 116, 105, 109, 101, 102, 114, 97, 109, 101, 95, 51, 48, 100]
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(18 bytes)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </button_id>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(button_id, 1)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <count>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(count, 2)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 2
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addLong(2)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </count>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(count, 2)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE END >
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- end message -->
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- start message -->
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE START >
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <user_id_device_model>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [53, 102, 57, 97, 55, 52, 54, 52, 45, 52, 101, 52, 99, 45, 52, 98, 50, 100, 45, 56, 52, 100, 57, 45, 52, 100, 55, 98, 48, 97, 55, 56, 52, 99, 54, 53, 95, 105, 80, 104, 111, 110, 101]
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(43 bytes)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </user_id_device_model>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <button_id>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(button_id, 1)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [110, 111, 116, 105]
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(4 bytes)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </button_id>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(button_id, 1)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <count>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(count, 2)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 6
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addLong(6)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </count>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(count, 2)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE END >
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- end message -->
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- start message -->
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE START >
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <user_id_device_model>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [53, 102, 102, 49, 50, 102, 99, 51, 45, 48, 97, 50, 99, 45, 52, 55, 49, 53, 45, 56, 100, 99, 98, 45, 52, 101, 53, 52, 48, 97, 54, 101, 52, 99, 50, 54, 95, 115, 97, 109, 115, 117, 110, 103, 32, 47, 32, 83, 77, 45, 71, 54, 49, 48, 70]
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(55 bytes)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </user_id_device_model>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <button_id>
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(button_id, 1)
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [95, 118, 105, 101, 119, 95, 98, 105, 108, 108, 95, 100, 101, 116, 97, 105, 108]
+12 Jul 2022 14:46:14,341 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(17 bytes)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </button_id>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(button_id, 1)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <count>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(count, 2)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 2
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addLong(2)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </count>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(count, 2)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE END >
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- end message -->
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- start message -->
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE START >
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <user_id_device_model>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [53, 100, 51, 53, 50, 53, 51, 52, 45, 53, 52, 100, 99, 45, 52, 102, 48, 100, 45, 57, 98, 97, 97, 45, 52, 54, 52, 100, 48, 97, 48, 97, 48, 50, 54, 54, 95, 79, 80, 80, 79, 32, 47, 32, 67, 80, 72, 49, 57, 54, 57]
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(51 bytes)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </user_id_device_model>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <button_id>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(button_id, 1)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [115, 101, 97, 108, 95, 100, 101, 97, 108, 95, 112, 105, 99, 107, 95, 115, 116, 97, 116, 105, 111, 110, 115, 95, 115, 49]
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(26 bytes)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </button_id>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(button_id, 1)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <count>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(count, 2)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 1
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addLong(1)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </count>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(count, 2)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE END >
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- end message -->
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- start message -->
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE START >
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <user_id_device_model>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [53, 101, 101, 52, 50, 54, 53, 99, 45, 99, 51, 54, 56, 45, 52, 49, 54, 102, 45, 56, 52, 52, 50, 45, 52, 54, 99, 101, 48, 97, 54, 101, 52, 99, 50, 52, 95, 105, 80, 104, 111, 110, 101]
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(43 bytes)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={}}: [user_id_device_model] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </user_id_device_model>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(user_id_device_model, 0)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <button_id>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(button_id, 1)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - [99, 104, 97, 116, 95, 99, 97, 110, 99, 101, 108]
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addBinary(11 bytes)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0}}: [button_id] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </button_id>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(button_id, 1)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <count>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - startField(count, 2)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 1
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - addLong(1)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - r: 0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1}}: [count] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - </count>
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - endField(count, 2)
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - < MESSAGE END >
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 0, VistedIndex{vistedIndexes={0, 1, 2}}: [] r:0
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- end message -->
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - <!-- flush -->
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - Flushing mem columnStore to file. allocated memory: 3642
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 4: start block
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - used 0 slabs, adding new slab of size 64
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - max dic id 60
+12 Jul 2022 14:46:14,342 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - Encoding: RunLengthBitPackingHybridEncoder with bithWidth: 6 initialCapacity 1024
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - initial slab of size 1024
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - used 0 slabs, adding new slab of size 1024
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - rle encoded bytes 85
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - BytesInput from array of 1 bytes
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 0 bytes to out
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 7 bytes to out
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - {
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 4 bytes to out
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write le int: 3 => 3 0 0 0
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 3 bytes to out
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - }
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 86 bytes to out
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - {
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 1 bytes to out
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 85 bytes to out
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - }
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 66 bytes to out
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 96 bytes to out
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - converted 162 to byteArray of 162 bytes
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - initial slab of size 64
+12 Jul 2022 14:46:14,343 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - initial slab of size 1372
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - used 0 slabs, adding new slab of size 1372
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - used 1 slabs, adding new slab of size 1372
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - writing a buffer of size 1372
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - converted 804 to byteArray of 804 bytes
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - BytesInput from array of 804 bytes
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - max dic id 6
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - Encoding: RunLengthBitPackingHybridEncoder with bithWidth: 3 initialCapacity 1024
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - initial slab of size 1024
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - used 0 slabs, adding new slab of size 1024
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - rle encoded bytes 43
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - BytesInput from array of 1 bytes
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 0 bytes to out
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 0 bytes to out
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 44 bytes to out
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - {
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 1 bytes to out
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 43 bytes to out
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - }
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 62 bytes to out
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 46 bytes to out
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - converted 108 to byteArray of 108 bytes
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - initial slab of size 56
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - used 0 slabs, adding new slab of size 56
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - used 1 slabs, adding new slab of size 56
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - writing a buffer of size 56
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - converted 40 to byteArray of 40 bytes
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - BytesInput from array of 40 bytes
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - max dic id 17
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - Encoding: RunLengthBitPackingHybridEncoder with bithWidth: 5 initialCapacity 1024
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - initial slab of size 1024
+12 Jul 2022 14:46:14,345 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - used 0 slabs, adding new slab of size 1024
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - rle encoded bytes 71
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - BytesInput from array of 1 bytes
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 0 bytes to out
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 0 bytes to out
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 72 bytes to out
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - {
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 1 bytes to out
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 71 bytes to out
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - }
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 114 bytes to out
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write 75 bytes to out
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - converted 189 to byteArray of 189 bytes
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - initial slab of size 894
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - used 0 slabs, adding new slab of size 894
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - used 1 slabs, adding new slab of size 894
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - writing a buffer of size 894
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - converted 726 to byteArray of 726 bytes
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - BytesInput from array of 726 bytes
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 4: write dictionary page: 18 values
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 19: write dictionary page content 726
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 745: write data pages
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 745: write data pages content
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 934: end column
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - written 189B for [user_id_device_model] required binary user_id_device_model (UTF8): 110 values, 72B raw, 75B comp, 1 pages, encodings: [PLAIN_DICTIONARY], dic { 18 entries, 894B raw, 18B comp}
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 934: write dictionary page: 61 values
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 949: write dictionary page content 804
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 1753: write data pages
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 1753: write data pages content
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 1915: end column
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - written 162B for [button_id] optional binary button_id (UTF8): 110 values, 93B raw, 96B comp, 1 pages, encodings: [PLAIN_DICTIONARY], dic { 61 entries, 1,372B raw, 61B comp}
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 1915: write dictionary page: 7 values
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 1928: write dictionary page content 40
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 1968: write data pages
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 1968: write data pages content
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 2076: end column
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - written 108B for [count] required int64 count: 110 values, 44B raw, 46B comp, 1 pages, encodings: [PLAIN_DICTIONARY], dic { 7 entries, 56B raw, 7B comp}
+12 Jul 2022 14:46:14,346 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 2076: end block
+12 Jul 2022 14:46:14,347 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 2076: end
+12 Jul 2022 14:46:14,347 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - 2929: footer length = 853
+12 Jul 2022 14:46:14,347 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - write le int: 853 => 85 3 0 0
+12 Jul 2022 14:46:14,348 dispatcher-event-loop-1 - Commit allowed for stage=11.0, partition=0, task attempt 0
+12 Jul 2022 14:46:14,348 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - Saved output of task 'attempt_202207121446121289673628777682569_0011_m_000000_1006' to file:/home/minh/MasterDev/Task8/output/button_count_by_user_id_device_model/_temporary/0/task_202207121446121289673628777682569_0011_m_000000
+12 Jul 2022 14:46:14,348 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - attempt_202207121446121289673628777682569_0011_m_000000_1006: Committed
+12 Jul 2022 14:46:14,349 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - Finished task 0.0 in stage 11.0 (TID 1006). 3364 bytes result sent to driver
+12 Jul 2022 14:46:14,349 Executor task launch worker for task 0.0 in stage 11.0 (TID 1006) - removing (11, 0) from stageTCMP
+12 Jul 2022 14:46:14,349 dispatcher-event-loop-0 - parentName: , name: TaskSet_11.0, runningTasks: 0
+12 Jul 2022 14:46:14,349 dispatcher-event-loop-0 - No tasks for locality level NODE_LOCAL, so moving to locality level ANY
+12 Jul 2022 14:46:14,349 task-result-getter-2 - Finished task 0.0 in stage 11.0 (TID 1006) in 73 ms on MTD-Minhnx12 (executor driver) (1/1)
+12 Jul 2022 14:46:14,349 task-result-getter-2 - Removed TaskSet 11.0, whose tasks have all completed, from pool 
+12 Jul 2022 14:46:14,350 dag-scheduler-event-loop - ResultStage 11 (parquet at Main.java:37) finished in 0.090 s
+12 Jul 2022 14:46:14,350 dag-scheduler-event-loop - After removal of stage 11, remaining stages = 2
+12 Jul 2022 14:46:14,350 dag-scheduler-event-loop - After removal of stage 10, remaining stages = 1
+12 Jul 2022 14:46:14,350 dag-scheduler-event-loop - After removal of stage 9, remaining stages = 0
+12 Jul 2022 14:46:14,350 dag-scheduler-event-loop - Job 3 is finished. Cancelling potential speculative or zombie tasks for this job
+12 Jul 2022 14:46:14,350 dag-scheduler-event-loop - Killing all running tasks in stage 11: Stage finished
+12 Jul 2022 14:46:14,350 dag-scheduler-event-loop - onTaskCommit(org.apache.spark.internal.io.FileCommitProtocol$TaskCommitMessage@7b08ebc1)
+12 Jul 2022 14:46:14,350 main - Job 3 finished: parquet at Main.java:37, took 1.343619 s
+12 Jul 2022 14:46:14,351 main - Merging data from DeprecatedRawLocalFileStatus{path=file:/home/minh/MasterDev/Task8/output/button_count_by_user_id_device_model/_temporary/0/task_202207121446121289673628777682569_0011_m_000000; isDirectory=true; modification_time=1657611974304; access_time=1657611974000; owner=; group=; permission=rwxrwxrwx; isSymlink=false; hasAcl=false; isEncrypted=false; isErasureCoded=false} to file:/home/minh/MasterDev/Task8/output/button_count_by_user_id_device_model
+12 Jul 2022 14:46:14,351 main - Merging data from DeprecatedRawLocalFileStatus{path=file:/home/minh/MasterDev/Task8/output/button_count_by_user_id_device_model/_temporary/0/task_202207121446121289673628777682569_0011_m_000000/part-00000-b64554b5-66f4-4ae6-aa60-4f86998ac4ac-c000.snappy.parquet; isDirectory=false; length=2937; replication=1; blocksize=33554432; modification_time=1657611974344; access_time=1657611974000; owner=; group=; permission=rw-rw-rw-; isSymlink=false; hasAcl=false; isEncrypted=false; isErasureCoded=false} to file:/home/minh/MasterDev/Task8/output/button_count_by_user_id_device_model/part-00000-b64554b5-66f4-4ae6-aa60-4f86998ac4ac-c000.snappy.parquet
+12 Jul 2022 14:46:14,356 main - Committing files staged for absolute locations Map()
+12 Jul 2022 14:46:14,356 main - Write Job bdb79d4e-a8ba-4e18-8802-1b6facc4e22f committed.
+12 Jul 2022 14:46:14,356 main - Finished processing stats for write job bdb79d4e-a8ba-4e18-8802-1b6facc4e22f.
+12 Jul 2022 14:46:14,360 shutdown-hook-0 - Invoking stop() from shutdown hook
+12 Jul 2022 14:46:14,363 shutdown-hook-0 - stopping Server@40258c2f{STARTED}[9.4.36.v20210114]
+12 Jul 2022 14:46:14,363 shutdown-hook-0 - doStop Server@40258c2f{STOPPING}[9.4.36.v20210114]
+12 Jul 2022 14:46:14,363 SparkUI-35 - ran SparkUI-35-acceptor-0@1d9bec4d-ServerConnector@2a65bb85{HTTP/1.1, (http/1.1)}{0.0.0.0:4040} in QueuedThreadPool[SparkUI]@3f1c5af9{STARTED,8<=8<=200,i=3,r=8,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}]
+12 Jul 2022 14:46:14,368 shutdown-hook-0 - Graceful shutdown Server@40258c2f{STOPPING}[9.4.36.v20210114] by 
+12 Jul 2022 14:46:14,368 shutdown-hook-0 - stopping Spark@2a65bb85{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+12 Jul 2022 14:46:14,368 shutdown-hook-0 - stopping SelectorManager@Spark@2a65bb85{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+12 Jul 2022 14:46:14,368 shutdown-hook-0 - stopping ManagedSelector@6c345c5f{STARTED} id=3 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,368 shutdown-hook-0 - Queued change lazy=false org.sparkproject.jetty.io.ManagedSelector$CloseConnections@33bf27d1 on ManagedSelector@6c345c5f{STOPPING} id=3 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,368 shutdown-hook-0 - Wakeup on submit ManagedSelector@6c345c5f{STOPPING} id=3 keys=0 selected=0 updates=1
+12 Jul 2022 14:46:14,368 SparkUI-34 - Selector sun.nio.ch.EPollSelectorImpl@5827fbf5 woken with none selected
+12 Jul 2022 14:46:14,368 SparkUI-34 - Selector sun.nio.ch.EPollSelectorImpl@5827fbf5 woken up from select, 0/0/0 selected
+12 Jul 2022 14:46:14,368 SparkUI-34 - Selector sun.nio.ch.EPollSelectorImpl@5827fbf5 processing 0 keys, 1 updates
+12 Jul 2022 14:46:14,368 SparkUI-34 - updateable 1
+12 Jul 2022 14:46:14,368 SparkUI-34 - update org.sparkproject.jetty.io.ManagedSelector$CloseConnections@33bf27d1
+12 Jul 2022 14:46:14,369 SparkUI-34 - Closing 0 connections on ManagedSelector@6c345c5f{STOPPING} id=3 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,369 SparkUI-34 - updates 0
+12 Jul 2022 14:46:14,369 SparkUI-34 - Selector sun.nio.ch.EPollSelectorImpl@5827fbf5 waiting with 0 keys
+12 Jul 2022 14:46:14,369 shutdown-hook-0 - Queued change lazy=false org.sparkproject.jetty.io.ManagedSelector$StopSelector@1dd83256 on ManagedSelector@6c345c5f{STOPPING} id=3 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,369 shutdown-hook-0 - Wakeup on submit ManagedSelector@6c345c5f{STOPPING} id=3 keys=0 selected=0 updates=1
+12 Jul 2022 14:46:14,369 SparkUI-34 - Selector sun.nio.ch.EPollSelectorImpl@5827fbf5 woken with none selected
+12 Jul 2022 14:46:14,369 SparkUI-34 - Selector sun.nio.ch.EPollSelectorImpl@5827fbf5 woken up from select, 0/0/0 selected
+12 Jul 2022 14:46:14,369 SparkUI-34 - Selector sun.nio.ch.EPollSelectorImpl@5827fbf5 processing 0 keys, 1 updates
+12 Jul 2022 14:46:14,369 SparkUI-34 - updateable 1
+12 Jul 2022 14:46:14,369 SparkUI-34 - update org.sparkproject.jetty.io.ManagedSelector$StopSelector@1dd83256
+12 Jul 2022 14:46:14,370 SparkUI-34 - updates 0
+12 Jul 2022 14:46:14,370 SparkUI-34 - ran org.sparkproject.jetty.io.ManagedSelector$$Lambda$394/22446425@5d5d9e5 in QueuedThreadPool[SparkUI]@3f1c5af9{STARTED,8<=8<=200,i=4,r=8,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}]
+12 Jul 2022 14:46:14,371 shutdown-hook-0 - stopping EatWhatYouKill@27a5328c/SelectorProducer@1e5f4170/IDLE/p=false/QueuedThreadPool[SparkUI]@3f1c5af9{STARTED,8<=8<=200,i=5,r=8,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}][pc=0,pic=0,pec=0,epc=0]@2022-07-12T14:46:14.371+07:00
+12 Jul 2022 14:46:14,371 shutdown-hook-0 - STOPPED EatWhatYouKill@27a5328c/SelectorProducer@1e5f4170/IDLE/p=false/QueuedThreadPool[SparkUI]@3f1c5af9{STARTED,8<=8<=200,i=5,r=8,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}][pc=0,pic=0,pec=0,epc=0]@2022-07-12T14:46:14.371+07:00
+12 Jul 2022 14:46:14,371 shutdown-hook-0 - STOPPED ManagedSelector@6c345c5f{STOPPED} id=3 keys=-1 selected=-1 updates=0
+12 Jul 2022 14:46:14,371 shutdown-hook-0 - stopping ManagedSelector@841e575{STARTED} id=2 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,371 shutdown-hook-0 - Queued change lazy=false org.sparkproject.jetty.io.ManagedSelector$CloseConnections@34cdfbb8 on ManagedSelector@841e575{STOPPING} id=2 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,371 shutdown-hook-0 - Wakeup on submit ManagedSelector@841e575{STOPPING} id=2 keys=0 selected=0 updates=1
+12 Jul 2022 14:46:14,371 SparkUI-33 - Selector sun.nio.ch.EPollSelectorImpl@204d58fc woken with none selected
+12 Jul 2022 14:46:14,371 SparkUI-33 - Selector sun.nio.ch.EPollSelectorImpl@204d58fc woken up from select, 0/0/0 selected
+12 Jul 2022 14:46:14,371 SparkUI-33 - Selector sun.nio.ch.EPollSelectorImpl@204d58fc processing 0 keys, 1 updates
+12 Jul 2022 14:46:14,371 SparkUI-33 - updateable 1
+12 Jul 2022 14:46:14,371 SparkUI-33 - update org.sparkproject.jetty.io.ManagedSelector$CloseConnections@34cdfbb8
+12 Jul 2022 14:46:14,371 SparkUI-33 - Closing 0 connections on ManagedSelector@841e575{STOPPING} id=2 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,371 SparkUI-33 - updates 0
+12 Jul 2022 14:46:14,371 SparkUI-33 - Selector sun.nio.ch.EPollSelectorImpl@204d58fc waiting with 0 keys
+12 Jul 2022 14:46:14,371 shutdown-hook-0 - Queued change lazy=false org.sparkproject.jetty.io.ManagedSelector$StopSelector@789051d7 on ManagedSelector@841e575{STOPPING} id=2 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,371 shutdown-hook-0 - Wakeup on submit ManagedSelector@841e575{STOPPING} id=2 keys=0 selected=0 updates=1
+12 Jul 2022 14:46:14,371 SparkUI-33 - Selector sun.nio.ch.EPollSelectorImpl@204d58fc woken with none selected
+12 Jul 2022 14:46:14,371 SparkUI-33 - Selector sun.nio.ch.EPollSelectorImpl@204d58fc woken up from select, 0/0/0 selected
+12 Jul 2022 14:46:14,371 SparkUI-33 - Selector sun.nio.ch.EPollSelectorImpl@204d58fc processing 0 keys, 1 updates
+12 Jul 2022 14:46:14,371 SparkUI-33 - updateable 1
+12 Jul 2022 14:46:14,371 SparkUI-33 - update org.sparkproject.jetty.io.ManagedSelector$StopSelector@789051d7
+12 Jul 2022 14:46:14,371 SparkUI-33 - updates 0
+12 Jul 2022 14:46:14,371 SparkUI-33 - ran org.sparkproject.jetty.io.ManagedSelector$$Lambda$394/22446425@37f21974 in QueuedThreadPool[SparkUI]@3f1c5af9{STARTED,8<=8<=200,i=5,r=8,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}]
+12 Jul 2022 14:46:14,371 shutdown-hook-0 - stopping EatWhatYouKill@2b62442c/SelectorProducer@66629f63/IDLE/p=false/QueuedThreadPool[SparkUI]@3f1c5af9{STARTED,8<=8<=200,i=6,r=8,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}][pc=0,pic=0,pec=0,epc=0]@2022-07-12T14:46:14.371+07:00
+12 Jul 2022 14:46:14,371 shutdown-hook-0 - STOPPED EatWhatYouKill@2b62442c/SelectorProducer@66629f63/IDLE/p=false/QueuedThreadPool[SparkUI]@3f1c5af9{STARTED,8<=8<=200,i=6,r=8,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}][pc=0,pic=0,pec=0,epc=0]@2022-07-12T14:46:14.371+07:00
+12 Jul 2022 14:46:14,371 shutdown-hook-0 - STOPPED ManagedSelector@841e575{STOPPED} id=2 keys=-1 selected=-1 updates=0
+12 Jul 2022 14:46:14,371 shutdown-hook-0 - stopping ManagedSelector@28a0fd6c{STARTED} id=1 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,372 shutdown-hook-0 - Queued change lazy=false org.sparkproject.jetty.io.ManagedSelector$CloseConnections@32db70bb on ManagedSelector@28a0fd6c{STOPPING} id=1 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,372 shutdown-hook-0 - Wakeup on submit ManagedSelector@28a0fd6c{STOPPING} id=1 keys=0 selected=0 updates=1
+12 Jul 2022 14:46:14,372 SparkUI-32 - Selector sun.nio.ch.EPollSelectorImpl@77d098e4 woken with none selected
+12 Jul 2022 14:46:14,372 SparkUI-32 - Selector sun.nio.ch.EPollSelectorImpl@77d098e4 woken up from select, 0/0/0 selected
+12 Jul 2022 14:46:14,372 SparkUI-32 - Selector sun.nio.ch.EPollSelectorImpl@77d098e4 processing 0 keys, 1 updates
+12 Jul 2022 14:46:14,372 SparkUI-32 - updateable 1
+12 Jul 2022 14:46:14,372 SparkUI-32 - update org.sparkproject.jetty.io.ManagedSelector$CloseConnections@32db70bb
+12 Jul 2022 14:46:14,372 SparkUI-32 - Closing 0 connections on ManagedSelector@28a0fd6c{STOPPING} id=1 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,372 SparkUI-32 - updates 0
+12 Jul 2022 14:46:14,372 SparkUI-32 - Selector sun.nio.ch.EPollSelectorImpl@77d098e4 waiting with 0 keys
+12 Jul 2022 14:46:14,372 shutdown-hook-0 - Queued change lazy=false org.sparkproject.jetty.io.ManagedSelector$StopSelector@6e4dae34 on ManagedSelector@28a0fd6c{STOPPING} id=1 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,372 shutdown-hook-0 - Wakeup on submit ManagedSelector@28a0fd6c{STOPPING} id=1 keys=0 selected=0 updates=1
+12 Jul 2022 14:46:14,372 SparkUI-32 - Selector sun.nio.ch.EPollSelectorImpl@77d098e4 woken with none selected
+12 Jul 2022 14:46:14,372 SparkUI-32 - Selector sun.nio.ch.EPollSelectorImpl@77d098e4 woken up from select, 0/0/0 selected
+12 Jul 2022 14:46:14,372 SparkUI-32 - Selector sun.nio.ch.EPollSelectorImpl@77d098e4 processing 0 keys, 1 updates
+12 Jul 2022 14:46:14,372 SparkUI-32 - updateable 1
+12 Jul 2022 14:46:14,372 SparkUI-32 - update org.sparkproject.jetty.io.ManagedSelector$StopSelector@6e4dae34
+12 Jul 2022 14:46:14,372 SparkUI-32 - updates 0
+12 Jul 2022 14:46:14,372 SparkUI-32 - ran org.sparkproject.jetty.io.ManagedSelector$$Lambda$394/22446425@3af17be2 in QueuedThreadPool[SparkUI]@3f1c5af9{STARTED,8<=8<=200,i=6,r=8,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}]
+12 Jul 2022 14:46:14,372 shutdown-hook-0 - stopping EatWhatYouKill@495083a0/SelectorProducer@5fd62371/IDLE/p=false/QueuedThreadPool[SparkUI]@3f1c5af9{STARTED,8<=8<=200,i=6,r=8,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}][pc=0,pic=0,pec=0,epc=0]@2022-07-12T14:46:14.372+07:00
+12 Jul 2022 14:46:14,372 shutdown-hook-0 - STOPPED EatWhatYouKill@495083a0/SelectorProducer@5fd62371/IDLE/p=false/QueuedThreadPool[SparkUI]@3f1c5af9{STARTED,8<=8<=200,i=7,r=8,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}][pc=0,pic=0,pec=0,epc=0]@2022-07-12T14:46:14.372+07:00
+12 Jul 2022 14:46:14,372 shutdown-hook-0 - STOPPED ManagedSelector@28a0fd6c{STOPPED} id=1 keys=-1 selected=-1 updates=0
+12 Jul 2022 14:46:14,372 shutdown-hook-0 - stopping ManagedSelector@46e8a539{STARTED} id=0 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,372 shutdown-hook-0 - Queued change lazy=false org.sparkproject.jetty.io.ManagedSelector$CloseConnections@3586887e on ManagedSelector@46e8a539{STOPPING} id=0 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,372 shutdown-hook-0 - Wakeup on submit ManagedSelector@46e8a539{STOPPING} id=0 keys=0 selected=0 updates=1
+12 Jul 2022 14:46:14,372 SparkUI-31 - Selector sun.nio.ch.EPollSelectorImpl@8314f8b woken with none selected
+12 Jul 2022 14:46:14,372 SparkUI-31 - Selector sun.nio.ch.EPollSelectorImpl@8314f8b woken up from select, 0/0/0 selected
+12 Jul 2022 14:46:14,372 SparkUI-31 - Selector sun.nio.ch.EPollSelectorImpl@8314f8b processing 0 keys, 1 updates
+12 Jul 2022 14:46:14,372 SparkUI-31 - updateable 1
+12 Jul 2022 14:46:14,372 SparkUI-31 - update org.sparkproject.jetty.io.ManagedSelector$CloseConnections@3586887e
+12 Jul 2022 14:46:14,372 SparkUI-31 - Closing 0 connections on ManagedSelector@46e8a539{STOPPING} id=0 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,372 SparkUI-31 - updates 0
+12 Jul 2022 14:46:14,372 SparkUI-31 - Selector sun.nio.ch.EPollSelectorImpl@8314f8b waiting with 0 keys
+12 Jul 2022 14:46:14,372 shutdown-hook-0 - Queued change lazy=false org.sparkproject.jetty.io.ManagedSelector$StopSelector@4f6269f0 on ManagedSelector@46e8a539{STOPPING} id=0 keys=0 selected=0 updates=0
+12 Jul 2022 14:46:14,372 shutdown-hook-0 - Wakeup on submit ManagedSelector@46e8a539{STOPPING} id=0 keys=0 selected=0 updates=1
+12 Jul 2022 14:46:14,372 SparkUI-31 - Selector sun.nio.ch.EPollSelectorImpl@8314f8b woken with none selected
+12 Jul 2022 14:46:14,372 SparkUI-31 - Selector sun.nio.ch.EPollSelectorImpl@8314f8b woken up from select, 0/0/0 selected
+12 Jul 2022 14:46:14,372 SparkUI-31 - Selector sun.nio.ch.EPollSelectorImpl@8314f8b processing 0 keys, 1 updates
+12 Jul 2022 14:46:14,372 SparkUI-31 - updateable 1
+12 Jul 2022 14:46:14,372 SparkUI-31 - update org.sparkproject.jetty.io.ManagedSelector$StopSelector@4f6269f0
+12 Jul 2022 14:46:14,372 SparkUI-31 - updates 0
+12 Jul 2022 14:46:14,373 SparkUI-31 - ran org.sparkproject.jetty.io.ManagedSelector$$Lambda$394/22446425@4fcee388 in QueuedThreadPool[SparkUI]@3f1c5af9{STARTED,8<=8<=200,i=7,r=8,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}]
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - stopping EatWhatYouKill@1849db1a/SelectorProducer@2cf23c81/IDLE/p=false/QueuedThreadPool[SparkUI]@3f1c5af9{STARTED,8<=8<=200,i=8,r=8,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}][pc=0,pic=0,pec=0,epc=0]@2022-07-12T14:46:14.373+07:00
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - STOPPED EatWhatYouKill@1849db1a/SelectorProducer@2cf23c81/IDLE/p=false/QueuedThreadPool[SparkUI]@3f1c5af9{STARTED,8<=8<=200,i=8,r=8,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}][pc=0,pic=0,pec=0,epc=0]@2022-07-12T14:46:14.373+07:00
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - STOPPED ManagedSelector@46e8a539{STOPPED} id=0 keys=-1 selected=-1 updates=0
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - STOPPED SelectorManager@Spark@2a65bb85{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - stopping HttpConnectionFactory@649725e3[HTTP/1.1]
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - STOPPED HttpConnectionFactory@649725e3[HTTP/1.1]
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - stopping ScheduledExecutorScheduler@4a9f80d3{STARTED}
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - STOPPED ScheduledExecutorScheduler@4a9f80d3{STOPPED}
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - Stopped Spark@2a65bb85{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - STOPPED Spark@2a65bb85{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - stopping Server@40258c2f{STOPPING}[9.4.36.v20210114]
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - stopping ContextHandlerCollection@5860f3d7{STARTED}
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - stopping ContextHandlerCollection@5860f3d7{STOPPING}
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - STOPPED ContextHandlerCollection@5860f3d7{STOPPED}
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - stopping ErrorHandler@34a1d21f{STARTED}
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - stopping ErrorHandler@34a1d21f{STOPPING}
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - STOPPED ErrorHandler@34a1d21f{STOPPED}
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - stopping QueuedThreadPool[SparkUI]@3f1c5af9{STARTED,8<=8<=200,i=8,r=8,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}]
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - Stopping QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=8<=200,i=8,r=-1,q=0}[ReservedThreadExecutor@18f20260{s=0/8,p=0}]
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - stopping ReservedThreadExecutor@18f20260{s=0/8,p=0}
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - STOPPED ReservedThreadExecutor@18f20260{s=-1/8,p=0}
+12 Jul 2022 14:46:14,373 shutdown-hook-0 - Waiting for Thread[SparkUI-33,5,main] for 14999
+12 Jul 2022 14:46:14,373 SparkUI-36 - run org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-37 - run org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-38 - run org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-37 - ran org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-38 - ran org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-34 - run org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-32 - run org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-34 - ran org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-32 - ran org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-34 - Thread[SparkUI-34,5,main] exited for QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-32 - Thread[SparkUI-32,5,main] exited for QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-31 - run org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,374 SparkUI-31 - ran org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,374 SparkUI-31 - Thread[SparkUI-31,5,main] exited for QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-35 - run org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-36 - ran org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,374 SparkUI-35 - ran org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-38 - Thread[SparkUI-38,5,main] exited for QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,374 SparkUI-35 - Thread[SparkUI-35,5,main] exited for QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-37 - Thread[SparkUI-37,5,main] exited for QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,373 SparkUI-33 - run org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,374 SparkUI-36 - Thread[SparkUI-36,5,main] exited for QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,374 SparkUI-33 - ran org.sparkproject.jetty.util.thread.QueuedThreadPool$$Lambda$375/466032056@1774785d in QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,374 SparkUI-33 - Thread[SparkUI-33,5,main] exited for QueuedThreadPool[SparkUI]@3f1c5af9{STOPPING,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,374 shutdown-hook-0 - Waiting for Thread[SparkUI-37,5,] for 14999
+12 Jul 2022 14:46:14,374 shutdown-hook-0 - STOPPED QueuedThreadPool[SparkUI]@3f1c5af9{STOPPED,8<=0<=200,i=8,r=-1,q=0}[NO_TRY]
+12 Jul 2022 14:46:14,374 shutdown-hook-0 - STOPPED Server@40258c2f{STOPPED}[9.4.36.v20210114]
+12 Jul 2022 14:46:14,374 shutdown-hook-0 - Stopped Spark web UI at http://MTD-Minhnx12:4040
+12 Jul 2022 14:46:14,385 dispatcher-event-loop-1 - MapOutputTrackerMasterEndpoint stopped!
+12 Jul 2022 14:46:14,407 shutdown-hook-0 - MemoryStore cleared
+12 Jul 2022 14:46:14,407 shutdown-hook-0 - BlockManager stopped
+12 Jul 2022 14:46:14,410 shutdown-hook-0 - BlockManagerMaster stopped
+12 Jul 2022 14:46:14,412 dispatcher-event-loop-0 - OutputCommitCoordinator stopped!
+12 Jul 2022 14:46:14,415 shutdown-hook-0 - Successfully stopped SparkContext
+12 Jul 2022 14:46:14,415 shutdown-hook-0 - Shutdown hook called
+12 Jul 2022 14:46:14,416 shutdown-hook-0 - Deleting directory /tmp/spark-627ea825-37f8-46c2-bf4e-de69fa41c038
+12 Jul 2022 14:46:14,418 Thread-2 - Completed shutdown in 0.059 seconds; Timeouts: 0
+12 Jul 2022 14:46:14,425 Thread-2 - ShutdownHookManger completed shutdown.
