@@ -22,7 +22,7 @@ public class KafkaProtobufConsumer {
 
     public void readMessages() {
         Properties properties = new Properties();
-        properties.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, "172.17.80.26:9092");
+        properties.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, "172.17.80.21:9092");
         properties.put(ConsumerConfig.GROUP_ID_CONFIG, "protobuf-consumer-group");
         properties.put(ConsumerConfig.AUTO_OFFSET_RESET_CONFIG, "earliest");
         properties.put(ConsumerConfig.ENABLE_AUTO_COMMIT_CONFIG, false);
@@ -30,14 +30,14 @@ public class KafkaProtobufConsumer {
         properties.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG, StringDeserializer.class);
         properties.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG, "serialize.Deserialize");
 
-        properties.put(KafkaProtobufDeserializerConfig.SCHEMA_REGISTRY_URL_CONFIG, "http://172.17.80.26:8081");
+        properties.put(KafkaProtobufDeserializerConfig.SCHEMA_REGISTRY_URL_CONFIG, "http://172.17.80.21:8081");
         properties.put(KafkaProtobufDeserializerConfig.SPECIFIC_PROTOBUF_VALUE_TYPE, DataTracking.class.getName());
 
         KafkaConsumer<String, DataTracking> consumer = new KafkaConsumer<>(properties,
                 new StringDeserializer(),
                 new Deserialize<>(DataTracking.parser()));
 
-        consumer.subscribe(Collections.singleton("minh_test1"));
+        consumer.subscribe(Collections.singleton("data_tracking_minhnx12"));
 
         //poll the record from the topic
         while (true) {

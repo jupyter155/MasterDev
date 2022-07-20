@@ -1,6 +1,7 @@
 package process;
 
 import com.example.Data.DataTracking;
+import com.github.javafaker.Faker;
 import io.confluent.kafka.serializers.protobuf.KafkaProtobufSerializerConfig;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.Producer;
@@ -21,29 +22,35 @@ public class KafkaProtobufProducer {
     public void writeMessage() {
         //create kafka producer
         Properties properties = new Properties();
-        properties.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, "172.17.80.26:9092");
+        properties.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, "172.17.80.21:9092");
         properties.put(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG, StringSerializer.class);
         properties.put(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG, "serialize.Serialize");
-        properties.put(KafkaProtobufSerializerConfig.SCHEMA_REGISTRY_URL_CONFIG, "http://172.17.80.26:8081");
+        properties.put(KafkaProtobufSerializerConfig.SCHEMA_REGISTRY_URL_CONFIG, "http://172.17.80.21:8081");
 
         Producer<String, DataTracking> producer = new KafkaProducer<>(properties);
+
+        String topic = "data_tracking_minhnx12";
+        int partition = 0;
+        Faker faker = new Faker();
         SimpleDateFormat sdf1 = new SimpleDateFormat("yyyyMMddHH");
         Timestamp timestamp = new Timestamp(System.currentTimeMillis());
         long TS = Long.parseLong(sdf1.format(timestamp));
         //prepare the message
+
+        for(int i = 0; i < 10000; i ++){
+
         DataTracking dataTracking =
                 DataTracking.newBuilder()
-                        .setVersion("12")
-                        .setName("standard")
+                        .setVersion("version-" + faker.number().numberBetween(1, 9) + "." + faker.number().numberBetween(0, 20))
+                        .setName(faker.name().fullName())
                         .setTimestamp(TS)
-                        .setPhoneId("02323")
-                        .setLon(123456)
-                        .setLat(123456).build();
+                        .setPhoneId(faker.phoneNumber().phoneNumber())
+                        .setLon(faker.number().numberBetween(0, 999))
+                        .setLat(faker.number().numberBetween(0, 999)).build();
 
         //prepare the kafka record
-        while(true) {
             ProducerRecord<String, DataTracking> record
-                    = new ProducerRecord<>("minh_test1", "key1", dataTracking);
+                    = new ProducerRecord<>(topic, partition,"key1", dataTracking);
             producer.send(record);
             System.out.println(dataTracking);
         }

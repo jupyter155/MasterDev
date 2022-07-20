@@ -21,20 +21,20 @@ public class SparkStreaming {
         SparkSession spark = SparkSession
                 .builder()
                 .appName("Spark Kafka Integration using Structured Streaming")
-                .master("local")
+//                .master("local")
                 .config("spark.driver.bindAddress", "127.0.0.1")
                 .getOrCreate();
 
         UserDefinedFunction strLen = udf(
-                (byte[] data) -> new Deserialize<>(DataTracking.parser()).deserialize("minh_test1", data).toString1()
+                (byte[] data) -> new Deserialize<>(DataTracking.parser()).deserialize("data_tracking_minhnx12", data).toString1()
                 , DataTypes.StringType);
 
         spark.udf().register("strLen", strLen);
         Dataset<Row> ds = spark
                 .readStream()
                 .format("kafka")
-                .option("kafka.bootstrap.servers", "172.17.80.26:9092")
-                .option("subscribe", "minh_test1")
+                .option("kafka.bootstrap.servers", "172.17.80.21:9092")
+                .option("subscribe", "data_tracking_minhnx12")
                 .option("startingOffsets", "earliest")
                 .load();
 
@@ -54,8 +54,8 @@ public class SparkStreaming {
         DF.writeStream()
                 .outputMode("append")
                 .format("parquet")
-                .option("checkpointLocation", "checkpoint") //hdfs://172.17.80.27:9000/minhnx12/sparkss/
-                .option("path", "output") //hdfs://172.17.80.27:9000/minhnx12/sparkss/
+                .option("checkpointLocation", "hdfs://172.17.80.21:9000/user/minhnx12/data_tracking/data") //checkpoint
+                .option("path", "hdfs://172.17.80.21:9000/user/minhnx12/data_tracking/data") //output
                 .partitionBy("year","month", "day", "hour")
                 .start().awaitTermination();
     }
