@@ -22,10 +22,10 @@ public class KafkaProtobufProducer {
     public void writeMessage() {
         //create kafka producer
         Properties properties = new Properties();
-        properties.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, "172.17.80.21:9092");
+        properties.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, "172.17.80.26:9092");
         properties.put(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG, StringSerializer.class);
         properties.put(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG, "serialize.Serialize");
-        properties.put(KafkaProtobufSerializerConfig.SCHEMA_REGISTRY_URL_CONFIG, "http://172.17.80.21:8081");
+        properties.put(KafkaProtobufSerializerConfig.SCHEMA_REGISTRY_URL_CONFIG, "http://172.17.80.26:8081");
 
         Producer<String, DataTracking> producer = new KafkaProducer<>(properties);
 
