@@ -54,8 +54,8 @@ public class SparkStreaming {
         DF.writeStream()
                 .outputMode("append")
                 .format("parquet")
-                .option("checkpointLocation", "hdfs://172.17.80.21:9000/user/minhnx12/data_tracking") //checkpoint
-                .option("path", "hdfs://172.17.80.21:9000/user/minhnx12/data_tracking") //  output
+                .option("checkpointLocation", "/user/minhnx12/data_tracking/checkpoint") //checkpoint hdfs://172.17.80.27:9000/user/minhnx12/data_tracking/
+                .option("path", "/user/minhnx12/data_tracking/output") //  output hdfs://172.17.80.27:9000/user/minhnx12/data_tracking/
                 .partitionBy("year","month", "day", "hour")
                 .start().awaitTermination();
     }
