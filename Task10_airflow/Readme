@@ -1,3 +1,5 @@
+http://172.17.80.25:8080
+user: admin2 ; pass: admin
 1. Install airflow va postgresql
 2. Tao 2 file airflow-scheduler.service va airflow-webserver.service trong /etc/systemd/system
 3. chay lan luot cac cau lenh
